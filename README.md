@@ -32,7 +32,7 @@ S2[c] -> 5:S0 + 5:S1;
 To run the script, execute the following command in the terminal:
 
 ```sh
-python mdp_script.py
+python mdp.py
 ```
 
 The script will prompt you for the name of the input file. Provide the name of the `.mdp` file you want to use.
